@@ -8,4 +8,4 @@ class relativeDate:
         pass
         
     def parse(self, relativeTime):
-        return datetime.today()
+        return datetime.now()
